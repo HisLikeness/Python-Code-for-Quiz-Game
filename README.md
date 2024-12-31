@@ -1,4 +1,4 @@
-# Python-Code-for-Simple-MCQ-
+# Python-Code-for-Quiz-Game
 This project implements a text-based **Quiz Game** in Python. The game presents multiple-choice questions to the user, tracks their score, and provides feedback on each answer.
 
 ## Features
